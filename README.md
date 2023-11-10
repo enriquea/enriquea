@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enriquea.
-- 👀 I’m interested in Big Omics-Data analysis.
+- 👀 I’m interested in omics data integration and analysis.
 - 🌱 I’m currently learning Machine Learning on Spark.
 - 📫 How to reach me: enrique.audain@gmail.com
 
