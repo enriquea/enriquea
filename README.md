@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @enriquea.
 - 👀 I’m interested in omics data integration and analysis.
 - 🌱 I’m currently learning Machine Learning on Spark.
+- 👥 I'm part of an amazing developer community at [BigBio Stack](https://github.com/bigbio).
 - 📫 How to reach me: enrique.audain@gmail.com
 - <a
     id="cy-effective-orcid-url"
